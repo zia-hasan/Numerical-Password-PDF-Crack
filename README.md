@@ -1,0 +1,3 @@
+### Numerical Password Cracker for PDF files
+This script was originally written to decrypt email bank statements sent by HDFC. If you are getting unsolicited email statements like I did and there is no way to unsubscribe them. Use this script to unlock the secret.
+In general this script could be used to crack any pdf with numerical passwords with a few tweaks. Make sure you have the imported modules.
